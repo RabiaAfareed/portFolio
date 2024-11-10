@@ -16,7 +16,9 @@ function Navbar() {
       <header className='relative w-full h-auto p-[1.5rem_1rem_1.5rem_1rem] bg-[#0a0908] shadow-sm shadow-[#251e16]'>
         <nav className='h-[2.25rem] mx-[1.6875rem] flex justify-between'>
           <div>
-            <Link href='/'><p className={`${caveat.className} text-[1.875rem] font-semibold text-white`} ><span className='text-[#A9927D]'>T</span>aha <span className='text-[#A9927D]'>A</span>hmed</p></Link>
+            <Link href='/'>
+            <p className={`${caveat.className} text-[1.875rem] font-semibold text-white`} >
+              <span className='text-[#A9927D]'>R</span>abia<span className='text-[#A9927D]'>F</span>areed</p></Link>
           </div>
 
           {isOpen == true ? (

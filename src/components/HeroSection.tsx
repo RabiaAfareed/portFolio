@@ -11,7 +11,7 @@ function HeroSection() {
   return (
     <>
       <section className='bg-[#0a0908] w-full text-center pt-[7.5rem]'>
-        <p className='text-[2rem]'>Hey! I'm <span className='text-[#A9927D]'>Taha Ahmed</span></p>
+        <p className='text-[2rem]'>Hey! I'm <span className='text-[#A9927D]'>Rabia Fareed</span></p>
 
         <p className='text-[2rem]'><span className='text-[#A9927D]'>I</span>'m <span className='text-[#A9927D]'>A F</span>ront <span className='text-[#A9927D]'>E</span>nd <span className='text-[#A9927D]'>W</span>eb <span className='text-[#A9927D]'>D</span>eveloper</p>
 
